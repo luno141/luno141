@@ -1,4 +1,4 @@
-# Ah! I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer** 👻 ![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png)
+# Ah! I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  ![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=FFCB05&width=600&lines=Full-Stack+Dev+%7C+Pok%C3%A9mon+Trainer+%7C+AI+%26+dApp+Enthusiast)](https://git.io/typing-svg)
 
