@@ -51,7 +51,7 @@
 
 | Project | Description | Repo |
 |---------|------------|------|
-| 2D Chess Game | C++ AI-powered chess | [GitHub](https://github.com/luno141/chess) |
+| 2D Chess Game | C++ AI-powered chess | [GitHub](https://github.com/luno141/CHESSwithbasicAI.git) |
 | Minimal Ray Tracer | Offline C++ ray tracer | [GitHub](https://github.com/luno141/raytracer) |
 | NeuroAssist | AI Mental Health Bot | [GitHub](https://github.com/luno141/neuroassist) |
 | Telegram Betting Bot | Blockchain + Telegram bot | [GitHub](https://github.com/luno141/bet0verse) |
