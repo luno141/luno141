@@ -1,16 +1,16 @@
-# 👋 I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
-<a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="48" height="48" /></a>
+#  I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
+<a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="56" height="56" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=CBA6F7&width=600&lines=Full-Stack+Dev+%7C+AI+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
-- Full-Stack Developer | React | Node.js | Python  
-- Pokémon Trainer | Catching bugs in code & wild Pokémon  
-- Currently building AI bots, dApps, and Games <a href="https://bulbapedia.bulbagarden.net/wiki/Ghastly_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png" align="middle" width="48" height="48" /></a>  
-- Always learning and exploring new technologies  
-- Goal: Build awesome apps and complete my Pokédex! <a href="https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png" align="middle" width="48" height="48" /></a>
+- Full-Stack Developer | React | Node.js | Python <a href="https://bulbapedia.bulbagarden.net/wiki/Haunter_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png" align="middle" width="48" height="48" /></a>
+- Pokémon Trainer | Catching bugs in code & wild Pokémon <a href="https://bulbapedia.bulbagarden.net/wiki/Ghastly_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png" align="middle" width="48" height="48" /></a>
+- Currently building AI bots, dApps, and Games <a href="https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png" align="middle" width="56" height="56" /></a>
+- Always learning and exploring new technologies <a href="https://bulbapedia.bulbagarden.net/wiki/Misdreavous_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png" align="middle" width="48" height="48" /></a>
+- Goal: Build awesome apps and complete my Pokédex! <a href="https://bulbapedia.bulbagarden.net/wiki/Banette_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png" align="middle" width="64" height="64" /></a>
 
 ---
 
@@ -68,3 +68,4 @@
 ---
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=luno141.luno141)
+****
