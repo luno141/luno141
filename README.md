@@ -48,11 +48,6 @@
 - Goal: Build awesome apps and complete my Pokédex! <a href="https://bulbapedia.bulbagarden.net/wiki/Banette_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png" align="middle" width="64" height="64" /></a>
 
 ---
-
-## Tech Stack
-
-## Tech Stack
-
 ## Tech Stack
 
 <p align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
@@ -118,8 +113,6 @@
   </a>
 
 </p>
-
-
 
 ## Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luno141&layout=compact&theme=tokyonight)  
