@@ -1,19 +1,20 @@
-# Ah! I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer** <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="32" height="32" /></a>
+# 👋 I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
+<a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="48" height="48" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=FFCB05&width=600&lines=Full-Stack+Dev+%7C+AI+Enthusiast)](https://git.io/typing-svg)
-
----
-
-## 🌱 About Me
-- 💻 Full-Stack Developer | React ⚛️ | Node.js 🌐 | Python 🐍  
-- ⚡ Pokémon Trainer | Catching bugs in code & wild Pokémon 🐾  
-- 🤖 Currently building **AI bots, dApps, and Games** <a href="https://bulbapedia.bulbagarden.net/wiki/Ghastly_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png" align="middle" width="32" height="32" /></a>
-- 🌟 Always learning and exploring new technologies  
-- 🎯 Goal: Build awesome apps and complete my Pokédex! 🏆  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=CBA6F7&width=600&lines=Full-Stack+Dev+%7C+AI+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+- Full-Stack Developer | React | Node.js | Python  
+- Pokémon Trainer | Catching bugs in code & wild Pokémon  
+- Currently building AI bots, dApps, and Games <a href="https://bulbapedia.bulbagarden.net/wiki/Ghastly_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png" align="middle" width="48" height="48" /></a>  
+- Always learning and exploring new technologies  
+- Goal: Build awesome apps and complete my Pokédex! <a href="https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png" align="middle" width="48" height="48" /></a>
+
+---
+
+## Tech Stack
 
 <p align="left">
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-2A75BB?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
@@ -35,7 +36,7 @@
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 | Project | Description | Repo |
 |---------|------------|------|
@@ -46,7 +47,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Vikrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=luno141&show_icons=true&theme=tokyonight&hide=issues)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luno141&layout=compact&theme=tokyonight)  
@@ -55,7 +56,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vikrant666" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
