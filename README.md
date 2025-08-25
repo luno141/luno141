@@ -2,13 +2,14 @@
 
 <!-- Top 6 Pokémon underlay -->
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="100" height="100" style="opacity:0.12; position:relative; top:-20px; left:0px;"> <!-- Gengar -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png" width="90" height="90" style="opacity:0.1; position:relative; top:-40px; left:150px;"> <!-- Wooper -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png" width="120" height="120" style="opacity:0.08; position:relative; top:-60px; left:-100px;"> <!-- Zekrom -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png" width="100" height="100" style="opacity:0.08; position:relative; top:-50px; left:200px;"> <!-- Zeraora -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" width="110" height="110" style="opacity:0.1; position:relative; top:-30px; left:-150px;"> <!-- Sceptile -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/282.png" width="120" height="120" style="opacity:0.1; position:relative; top:-70px; left:-50px;"> <!-- Shiny Gardevoir -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/194.png" width="90" height="90" style="opacity:0.1; position:relative; top:-40px; left:150px;"> <!-- Shiny Wooper -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" width="120" height="120" style="opacity:0.08; position:relative; top:-60px; left:-100px;"> <!-- Mega Sceptile -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png" width="120" height="120" style="opacity:0.1; position:relative; top:-70px; left:-50px;"> <!-- Giratina -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png" width="110" height="110" style="opacity:0.08; position:relative; top:-50px; left:200px;"> <!-- Dragapult -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="100" height="100" style="opacity:0.1; position:relative; top:-30px; left:-150px;"> <!-- Mimikyu -->
 
 </div>
+
 
 
 #  I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
