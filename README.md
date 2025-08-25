@@ -31,6 +31,7 @@
 
 
 
+
 #  I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
 <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="48" height="48" /></a>
 
