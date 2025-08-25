@@ -1,71 +1,21 @@
-#  I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
-<a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="56" height="56" /></a>
+<p align="center" style="position: relative;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=CBA6F7&width=600&lines=Full-Stack+Dev+%7C+AI+Enthusiast)](https://git.io/typing-svg)
+  <!-- Gengar underlay -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" 
+       style="position:absolute; left:10%; top:10%; width:200px; opacity:0.15;" />
 
----
+  <!-- Ghastly underlay -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png" 
+       style="position:absolute; right:15%; top:20%; width:180px; opacity:0.15;" />
 
-## About Me
-- Full-Stack Developer | React | Node.js | Python <a href="https://bulbapedia.bulbagarden.net/wiki/Haunter_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png" align="middle" width="48" height="48" /></a>
-- Pokémon Trainer | Catching bugs in code & wild Pokémon <a href="https://bulbapedia.bulbagarden.net/wiki/Ghastly_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png" align="middle" width="48" height="48" /></a>
-- Currently building AI bots, dApps, and Games <a href="https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png" align="middle" width="56" height="56" /></a>
-- Always learning and exploring new technologies <a href="https://bulbapedia.bulbagarden.net/wiki/Misdreavous_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png" align="middle" width="48" height="48" /></a>
-- Goal: Build awesome apps and complete my Pokédex! <a href="https://bulbapedia.bulbagarden.net/wiki/Banette_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png" align="middle" width="64" height="64" /></a>
+  <!-- Spiritomb underlay -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png" 
+       style="position:absolute; left:25%; bottom:10%; width:220px; opacity:0.12;" />
 
----
+  <!-- Main content on top -->
+  <div style="position: relative; z-index: 1;">
+    # 👋 I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**
 
-## Tech Stack
-
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-2A75BB?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=CBA6F7&width=600&lines=Full-Stack+Dev+%7C+AI+Enthusiast)](https://git.io/typing-svg)
+  </div>
 </p>
-
----
-
-## Featured Projects
-
-| Project | Description | Repo |
-|---------|------------|------|
-| 2D Chess Game | C++ AI-powered chess | [GitHub](https://github.com/luno141/chess) |
-| Minimal Ray Tracer | Offline C++ ray tracer | [GitHub](https://github.com/luno141/raytracer) |
-| NeuroAssist | AI Mental Health Bot | [GitHub](https://github.com/luno141/neuroassist) |
-| Telegram Betting Bot | Blockchain + Telegram bot | [GitHub](https://github.com/luno141/bet0verse) |
-
----
-
-## GitHub Stats
-
-![Vikrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=luno141&show_icons=true&theme=tokyonight&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luno141&layout=compact&theme=tokyonight)  
-
-![GitHub commit activity](https://github-readme-activity-graph.cyclic.app/graph?username=luno141&theme=tokyonight)
-
----
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vikrant666" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/luno_666/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:deyvikrant28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vikrant-red.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
----
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=luno141.luno141)
-****
