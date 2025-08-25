@@ -33,6 +33,7 @@
 
 
 #  I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
+"Hey there! I'm Luno – I wrestle bugs by day and code by night. I turn coffee into web apps, dreams into features, and random ideas into functioning APIs. Full-stack wizardry with a pinch of chaos and a love for all things Pokémon."
 <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="48" height="48" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=CBA6F7&width=600&lines=Full-Stack+Dev+%7C+AI+Enthusiast)](https://git.io/typing-svg)
