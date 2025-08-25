@@ -32,7 +32,7 @@
 
 
 
-#  I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
+#  I've heard about you! I lead the Elite Four.
 "Hey there! I'm Luno – I wrestle bugs by day and code by night. I turn coffee into web apps, dreams into features, and random ideas into functioning APIs. Full-stack wizardry with a pinch of chaos and a love for all things Pokémon."
 <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="48" height="48" /></a>
 
@@ -70,23 +70,11 @@
 </p>
 ## Featured Projects
 
-| Project | Description | Repo |
-|---------|------------|------|
-| 2D Chess Game | C++ AI-powered chess | [GitHub](https://github.com/luno141/CHESSwithbasicAI.git) |
-| Minimal Ray Tracer | Offline C++ ray tracer | [GitHub](https://github.com/luno141/raytracer) |
-| NeuroAssist | AI Mental Health Bot | [GitHub](https://github.com/luno141/neuroassist) |
-| Telegram Betting Bot | Blockchain + Telegram bot | [GitHub](https://github.com/luno141/bet0verse) |
-
----
-
-## GitHub Stats
+## Stats
 
 ![Vikrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=luno141&show_icons=true&theme=tokyonight&hide=issues)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luno141&layout=compact&theme=tokyonight)  
 
-![GitHub commit activity](https://github-readme-activity-graph.cyclic.app/graph?username=luno141&theme=tokyonight)
-
----
 
 ## Connect with Me
 
