@@ -1,39 +1,37 @@
-<div align="center">
+<div style="position:relative; width:100%;">
 
-<!-- Top 6 Pokémon underlay with Bulbapedia links and display:block -->
-<a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="100" height="100" 
-       style="opacity:0.12; position:relative; top:-20px; left:0px; display:block;">
-</a>
-<a href="https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/194.png" width="90" height="90" 
-       style="opacity:0.1; position:relative; top:-40px; left:150px; display:block;">
-</a>
-<a href="https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" width="120" height="120" 
-       style="opacity:0.08; position:relative; top:-60px; left:-100px; display:block;">
-</a>
-<a href="https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png" width="120" height="120" 
-       style="opacity:0.1; position:relative; top:-70px; left:-50px; display:block;">
-</a>
-<a href="https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png" width="110" height="110" 
-       style="opacity:0.08; position:relative; top:-50px; left:200px; display:block;">
-</a>
-<a href="https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pokémon)" target="_blank">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="100" height="100" 
-       style="opacity:0.1; position:relative; top:-30px; left:-150px; display:block;">
-</a>
+  <!-- Translucent pastel lavender background -->
+  <img src="https://via.placeholder.com/1200x600/CBA6F780/FFFFFF?text=" 
+       style="position:absolute; top:0; left:0; width:100%; height:100%; z-index:0;"/>
+
+  <!-- Top 6 Pokémon underlay -->
+  <div align="center" style="position:relative; z-index:1;">
+    <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="100" height="100" style="opacity:0.12; display:block;">
+    </a>
+    <a href="https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pokémon)" target="_blank">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/194.png" width="90" height="90" style="opacity:0.1; display:block;">
+    </a>
+    <a href="https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pokémon)" target="_blank">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" width="120" height="120" style="opacity:0.08; display:block;">
+    </a>
+    <a href="https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pokémon)" target="_blank">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png" width="120" height="120" style="opacity:0.1; display:block;">
+    </a>
+    <a href="https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pokémon)" target="_blank">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png" width="110" height="110" style="opacity:0.08; display:block;">
+    </a>
+    <a href="https://bulbapedia.bulbagarden.net/wiki/Mimikyu_(Pokémon)" target="_blank">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png" width="100" height="100" style="opacity:0.1; display:block;">
+    </a>
+  </div>
 
 </div>
 
-
-
-
-
-#  I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
-<a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="48" height="48" /></a>
+# I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
+<a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="48" height="48" />
+</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=CBA6F7&width=600&lines=Full-Stack+Dev+%7C+AI+Enthusiast)](https://git.io/typing-svg)
 
@@ -67,6 +65,9 @@
   <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></a>
   <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
 </p>
+
+---
+
 ## Featured Projects
 
 | Project | Description | Repo |
@@ -82,20 +83,4 @@
 
 ![Vikrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=luno141&show_icons=true&theme=tokyonight&hide=issues)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luno141&layout=compact&theme=tokyonight)  
-
-![GitHub commit activity](https://github-readme-activity-graph.cyclic.app/graph?username=luno141&theme=tokyonight)
-
----
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vikrant666" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/luno_666/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:deyvikrant28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vikrant-red.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
-
----
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=luno141.luno141)
+![GitHub commit activity](https://github-readme
