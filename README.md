@@ -49,72 +49,72 @@
 
 ---
 ## Tech Stack
-## Tech Stack
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:6px;">
 
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-2A75BB?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
   
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   </a>
   
   <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
   
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
   
   <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   </a>
   
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   </a>
   
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
   
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   </a>
   
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   </a>
   
   <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   </a>
   
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </a>
   
   <a href="https://unity.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" alt="Unity" />
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
   </a>
   
   <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white" alt="OpenAI" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   </a>
 
 </p>
 
+---
 ## Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luno141&layout=compact&theme=tokyonight)  
 
@@ -122,11 +122,11 @@
 ## Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vikrant666" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/luno_666/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:deyvikrant28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vikrant-red.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vikrant666" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/luno_666/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:deyvikrant28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://vikrant-red.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=flat-square&logo=About.me&logoColor=white" /></a>
+  <a href="https://discord.com/users/578756737935343637" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
----
 
