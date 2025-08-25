@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Big Ghost Pokémon sprites under text -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="100" height="100" style="opacity:0.1; position:relative; top:-20px; left:0px;">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png" width="80" height="80" style="opacity:0.12; position:relative; top:-50px; left:200px;">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png" width="110" height="110" style="opacity:0.1; position:relative; top:-30px; left:-150px;">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png" width="90" height="90" style="opacity:0.1; position:relative; top:-40px; left:100px;">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png" width="120" height="120" style="opacity:0.08; position:relative; top:-60px; left:-80px;">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png" width="95" height="95" style="opacity:0.1; position:relative; top:-55px; left:150px;">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png" width="100" height="100" style="opacity:0.08; position:relative; top:-70px; left:-100px;"> <!-- Aegislash -->
+<!-- Top 6 Pokémon underlay -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="100" height="100" style="opacity:0.12; position:relative; top:-20px; left:0px;"> <!-- Gengar -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png" width="90" height="90" style="opacity:0.1; position:relative; top:-40px; left:150px;"> <!-- Wooper -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png" width="120" height="120" style="opacity:0.08; position:relative; top:-60px; left:-100px;"> <!-- Zekrom -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png" width="100" height="100" style="opacity:0.08; position:relative; top:-50px; left:200px;"> <!-- Zeraora -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png" width="110" height="110" style="opacity:0.1; position:relative; top:-30px; left:-150px;"> <!-- Sceptile -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/282.png" width="120" height="120" style="opacity:0.1; position:relative; top:-70px; left:-50px;"> <!-- Shiny Gardevoir -->
 
 </div>
+
 
 #  I've heard about you! I lead the Elite Four. You can call me **Luno the Ghost Trainer**  
 <a href="https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pokémon)" target="_blank"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" align="middle" width="48" height="48" /></a>
@@ -46,3 +46,35 @@
   <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></a>
   <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
 </p>
+## Featured Projects
+
+| Project | Description | Repo |
+|---------|------------|------|
+| 2D Chess Game | C++ AI-powered chess | [GitHub](https://github.com/luno141/chess) |
+| Minimal Ray Tracer | Offline C++ ray tracer | [GitHub](https://github.com/luno141/raytracer) |
+| NeuroAssist | AI Mental Health Bot | [GitHub](https://github.com/luno141/neuroassist) |
+| Telegram Betting Bot | Blockchain + Telegram bot | [GitHub](https://github.com/luno141/bet0verse) |
+
+---
+
+## GitHub Stats
+
+![Vikrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=luno141&show_icons=true&theme=tokyonight&hide=issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luno141&layout=compact&theme=tokyonight)  
+
+![GitHub commit activity](https://github-readme-activity-graph.cyclic.app/graph?username=luno141&theme=tokyonight)
+
+---
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vikrant666" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/luno_666/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:deyvikrant28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://vikrant-red.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+---
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=luno141.luno141)
